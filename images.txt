@@ -6,3 +6,6 @@ nginx
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 library/redis:7.2.1
+postgis/postgis:17-3.5
+nginx:1.27.2
+bitnami/minio:2024.10.13
